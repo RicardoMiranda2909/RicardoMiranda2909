@@ -55,3 +55,43 @@ Possuo formação técnica em **Eletromecânica Automotiva pelo SENAI**, o que m
 </p>
 
 <br/><br/><br/><br/><br/><br/><br/><br/>
+
+---
+
+### 🏎️ Projeto: Fórmula UFPR – Dinâmica Veicular
+
+Projeto trainee com foco em direção e suspensão, utilizando modelagem em **CATIA V5** e análise de materiais.  
+Comparação entre Aço SAE 1020 e Alumínio 6351-T6, simulações estruturais e modelagem de componentes como balancim e pinça de freio.
+
+📁 [`formula-ufpr-dinamica-veicular`](https://github.com/RicardoMiranda2909/formula-ufpr-dinamica-veicular)
+
+#### 📸 Imagens
+![Balancim](formula-ufpr-dinamica-veicular/images/formula_ufpr_page1_img1.png)  
+![Montagem](formula-ufpr-dinamica-veicular/images/formula_ufpr_page3_img1.jpeg)  
+![Simulação](formula-ufpr-dinamica-veicular/images/formula_ufpr_page3_img2.png)
+
+---
+
+### ✈️ Projeto: Aerodesign PUCPR – Aerodinâmica
+
+Projeto de análise CFD da asa, estabilizador horizontal e vertical para competição SAE Aerodesign.  
+Inclui otimização do perfil MP1314, simulações com OpenFOAM, polar de arrasto, e coeficientes (Cl, Cd, Cm).
+
+📁 [`aerodesign-aerodinamica-cfd`](https://github.com/RicardoMiranda2909/aerodesign-aerodinamica-cfd)
+
+#### 📸 Imagens
+![Perfil MP1314](aerodesign-aerodinamica-cfd/images/aerodesign_page1_img1.png)  
+![Simulação CFD](aerodesign-aerodinamica-cfd/images/aerodesign_page1_img2.png)  
+![Curva Polar](aerodesign-aerodinamica-cfd/images/aerodesign_page5_img1.jpeg)
+
+---
+
+### 📄 Documentações
+
+Cada projeto possui um relatório técnico na pasta `/docs/` dos respectivos repositórios.
+
+---
+
+### 📬 Contato
+
+Conecte-se no [LinkedIn](https://www.linkedin.com/in/ricardomiranda29) ou veja meus repositórios aqui no GitHub!
