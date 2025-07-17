@@ -66,9 +66,9 @@ Comparação entre Aço SAE 1020 e Alumínio 6351-T6, simulações estruturais e
 📁 [`formula-ufpr-dinamica-veicular`](https://github.com/RicardoMiranda2909/formula-ufpr-dinamica-veicular)
 
 #### 📸 Imagens
-![Balancim](formula-ufpr-dinamica-veicular/images/formula_ufpr_page1_img1.png)  
-![Montagem](formula-ufpr-dinamica-veicular/images/formula_ufpr_page3_img1.jpeg)  
-![Simulação](formula-ufpr-dinamica-veicular/images/formula_ufpr_page3_img2.png)
+![Balancim](https://github.com/RicardoMiranda2909/formula-ufpr-dinamica-veicular/blob/main/images/formula_ufpr_page1_img1.png?raw=true)  
+![Montagem](https://github.com/RicardoMiranda2909/formula-ufpr-dinamica-veicular/blob/main/images/formula_ufpr_page3_img1.jpeg?raw=true)  
+![Simulação](https://github.com/RicardoMiranda2909/formula-ufpr-dinamica-veicular/blob/main/images/formula_ufpr_page3_img2.png?raw=true)
 
 ---
 
@@ -80,9 +80,9 @@ Inclui otimização do perfil MP1314, simulações com OpenFOAM, polar de arrast
 📁 [`aerodesign-aerodinamica-cfd`](https://github.com/RicardoMiranda2909/aerodesign-aerodinamica-cfd)
 
 #### 📸 Imagens
-![Perfil MP1314](aerodesign-aerodinamica-cfd/images/aerodesign_page1_img1.png)  
-![Simulação CFD](aerodesign-aerodinamica-cfd/images/aerodesign_page1_img2.png)  
-![Curva Polar](aerodesign-aerodinamica-cfd/images/aerodesign_page5_img1.jpeg)
+![Perfil MP1314](https://github.com/RicardoMiranda2909/aerodesign-aerodinamica-cfd/blob/main/images/aerodesign_page1_img1.png?raw=true)  
+![Simulação CFD](https://github.com/RicardoMiranda2909/aerodesign-aerodinamica-cfd/blob/main/images/aerodesign_page1_img2.png?raw=true)  
+![Curva Polar](https://github.com/RicardoMiranda2909/aerodesign-aerodinamica-cfd/blob/main/images/aerodesign_page5_img1.jpeg?raw=true)
 
 ---
 
@@ -94,4 +94,4 @@ Cada projeto possui um relatório técnico na pasta `/docs/` dos respectivos rep
 
 ### 📬 Contato
 
-Conecte-se no [LinkedIn](https://www.linkedin.com/in/ricardomiranda29) ou veja meus repositórios aqui no GitHub!
+Conecte-se no [LinkedIn](https://www.linkedin.com/in/ricardomiranda29) ou
